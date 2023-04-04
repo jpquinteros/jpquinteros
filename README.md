@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on the final details of my final Bootcamp Proyect [FitU](https://final-henry-g6.netlify.app/)
 
-- 🌱 I’m currently learning **TypeScript and Java**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **JavaScript, React, Redux, Express, Sequelize, PostgresSQL**
 
